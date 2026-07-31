@@ -75,9 +75,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharabbas-993-lnkdn"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a> &nbsp;
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-Follow-red?logo=instagram"></a> &nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100091578665438"><img src="https://img.shields.io/badge/Facebook-Connect-blue?logo=facebook"></a> &nbsp;
-  <a href="https://www.youtube.com/@atharabbas993-s4x"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube"></a> &nbsp;
   <a href="https://wa.me/03039150007"><img src="https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp"></a>
 </p>
 
